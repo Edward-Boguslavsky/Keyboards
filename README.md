@@ -22,6 +22,8 @@ A custom 65% keyboard from KBDFans with per-key RGB, hot-swappable sockets, and 
 
 You can flash your DZ65 using my [firmware](DZ65/dz65rgb_v3_firmware.bin) or make changes to and recompile using my [keymap](DZ65/dz65rgb_v3_keymap.json)
 
+----
+
 ## Sofle
 
 A custom split ergonomic 40% keyboard from Josef Adamčík with staggered columns, dual OLED displays, and dual rotary encoders
@@ -39,6 +41,8 @@ A custom split ergonomic 40% keyboard from Josef Adamčík with staggered column
 ### Usage
 
 You can make changes and compile using my [keymap](Sofle/sofle_keymap.json)
+
+----
 
 ## Future Plans
 
