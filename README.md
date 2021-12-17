@@ -8,7 +8,7 @@ A custom 65% keyboard from KBDFans with per-key RGB, hot-swappable sockets, and 
 
 ![Tofu65](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/DZ65/tofu65.jpg?raw=true)
 
-### Keymap
+### Keymaps
 
 #### Layer 0
 
@@ -22,7 +22,15 @@ A custom 65% keyboard from KBDFans with per-key RGB, hot-swappable sockets, and 
 
 A custom split ergonomic 40% keyboard from Josef Adamčík with staggered columns, dual OLED displays, and dual rotary encoders
 
-***THIS IS STILL A WORK IN PROGRESS***
+### Keymaps
+
+#### Layer 0
+
+![Layer 0](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/Sofle/layer_0.png?raw=true)
+
+#### Layer 1
+
+![Layer 1](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/Sofle/layer_1.png?raw=true)
 
 ## Future Plans
 
