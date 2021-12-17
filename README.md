@@ -6,17 +6,17 @@ A custom 65% keyboard from KBDFans with per-key RGB, hot-swappable sockets, and 
 
 ### Keyboard
 
-![Tofu65](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/DZ65/tofu65.jpg?raw=true)
+![Tofu65](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/DZ65/tofu65.jpg?raw=true)
 
 ### Keymap
 
 #### Layer 0
 
-![Layer 0](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/DZ65/layer_0.png?raw=true)
+![Layer 0](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/DZ65/layer_0.png?raw=true)
 
 #### Layer 1
 
-![Layer 1](https://github.com/Edward-Boguslavsky/ePortfolio/blob/main/DZ65/layer_1.png?raw=true)
+![Layer 1](https://github.com/Edward-Boguslavsky/Keyboards/blob/main/DZ65/layer_1.png?raw=true)
 
 ## Sofle
 
